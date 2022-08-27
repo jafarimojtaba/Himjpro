@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himjpro
+- 👋 Hi, I’m Mojtaba
 - 👀 I’m interested in AI, Big data, Embeded systems and evry tech that help people have a safer and happier life
 - 🌱 I’m currently learning c at 42 Wolfsburg
 - 💞️ I’m looking to collaborate on AI projects in C and Python
